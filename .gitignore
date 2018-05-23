@@ -5,7 +5,7 @@
 kumala/settings_secret.py
 static/ignore
 static/images/unused
-
+home/migrations
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -122,3 +122,6 @@ www/migrations/__init__.py
 www/migrations/__init__.py
 static/css/newmaster.css
 svg-icons.html
+*.sqlite3
+*.pyc
+*.pyc
