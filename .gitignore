@@ -125,3 +125,11 @@ svg-icons.html
 *.sqlite3
 *.pyc
 *.pyc
+db.sqlite3
+*.pyc
+blog/migrations/0001_initial.py
+blog/migrations/0002_blogpage.py
+blog/migrations/0003_blogpagegalleryimage.py
+db.sqlite3
+*.pyc
+kumala/settings/__pycache__/base.cpython-36.pyc
