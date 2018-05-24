@@ -133,3 +133,4 @@ blog/migrations/0003_blogpagegalleryimage.py
 db.sqlite3
 *.pyc
 kumala/settings/__pycache__/base.cpython-36.pyc
+*.pyc
