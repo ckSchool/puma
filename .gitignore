@@ -134,3 +134,5 @@ db.sqlite3
 *.pyc
 kumala/settings/__pycache__/base.cpython-36.pyc
 *.pyc
+*.pyc
+*.sqlite3
